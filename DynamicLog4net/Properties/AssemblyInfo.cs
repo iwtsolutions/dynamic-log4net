@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Dynamic-Log4net")]
+[assembly: AssemblyTitle("DynamicLog4net")]
 [assembly: AssemblyDescription("Log4net extension library for configuring appenders and loggers through c# code.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("IWT Solutions")]
-[assembly: AssemblyProduct("Dynamic-Log4net")]
+[assembly: AssemblyProduct("DynamicLog4net")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -33,4 +33,4 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("0.1.0.0")]
+[assembly: AssemblyFileVersion("0.2.0.0")]

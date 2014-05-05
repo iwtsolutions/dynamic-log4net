@@ -4,7 +4,7 @@ using log4net.Config;
 using log4net.Core;
 using log4net.Layout;
 
-namespace Dynamic_Log4net
+namespace DynamicLog4net
 {
     public sealed class DynamicLog
     {

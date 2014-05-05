@@ -1,9 +1,8 @@
 ﻿using log4net;
 using log4net.Repository.Hierarchy;
 
-namespace Dynamic_Log4net
+namespace DynamicLog4net
 {
-
     internal sealed class DynamicLogger : Logger
     {
         internal DynamicLogger(string name)
