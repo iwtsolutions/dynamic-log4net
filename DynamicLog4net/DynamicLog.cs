@@ -55,6 +55,15 @@ namespace DynamicLog4net
             addAppender(appender);
         }
 
+        public void AddFileAppender(string fileName)
+        {
+            var appender = new FileAppender();
+            appender.File = fileName;
+            appender.AppendToFile = true;
+
+            addAppender(appender);
+        }
+
         private void addAppender(AppenderSkeleton appender)
         {
             addAppender(appender, getBasicLayout());
