@@ -1,3 +1,5 @@
 DynamicLog4net/DynamicLog4net.1.0.0.0.nupkg
 DynamicLog4net/DynamicLog4net.1.0.0.0.symbols.nupkg
 DynamicLog4net/DynamicLog4net.nuspec
+*.nupkg
+*.nuspec
